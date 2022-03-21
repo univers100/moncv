@@ -1,0 +1,77 @@
+.entete1{
+	float: right;
+}
+.entete2{
+    float: left;
+}
+.page{
+	width: 780px;
+	margin: auto;
+	font-family: sans-serif;
+	font-size: 16px;
+	border: 2px solid rgb(221, 135, 7);
+	border-radius: 15px;
+	padding: 10px;
+	background-color: rgb(163, 230, 213);
+}
+.info{
+	height: 200px;
+	font-weight: bold;
+}
+img{
+	position: absolute;
+	top: 50%;
+	bottom: 50%;
+	left: 65%;
+	border: 5px solid;
+	/* background-color: black; */
+	border-radius: 20PX;
+} 
+
+header{
+	padding-bottom: 20%;
+}
+h1{
+	float: right;
+	margin-right: 300px;
+	margin-top: -5px;
+}
+   
+.section{
+	  margin-bottom: 55px;
+	  text-align: justify;
+
+}
+.section-gauche{
+	  float: left;
+	  font-weight: bold;
+	  font-size: 22px;
+}
+.section-droite{
+	  margin-left: 400px;
+	  margin-top: 40px;
+}
+h2{
+       font-size: 28px;
+       color: brown;
+       border-bottom: 2px solid brown;
+	   margin: left;
+}
+
+#forma-gauche p{
+	   margin-bottom: 37px;
+	   padding: 4px;
+} 
+#forma-droite p{
+	margin-top: 40px;
+	
+}  
+#stage p{
+	     margin-bottom: 40px;
+}
+#stage1 p{
+	  margin-bottom: 40%;
+}
+#lang p{
+	     margin-bottom: 15px;
+}
